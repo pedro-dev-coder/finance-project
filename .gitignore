@@ -1,0 +1,17 @@
+# Node
+node_modules
+/dist
+.env
+.env.local
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
